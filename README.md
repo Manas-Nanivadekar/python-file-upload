@@ -22,3 +22,7 @@ uvicorn main:app
 ```bash
 python3 gui.py
 ```
+
+## Documentation for the project.
+
+To view Postman collection, click [here](https://documenter.getpostman.com/view/13139793/2sA3Bhea5Y)
